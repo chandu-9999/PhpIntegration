@@ -1,1 +1,1 @@
-<?= 'Testing File'; ?>
+<?= 'Test File'; ?>
