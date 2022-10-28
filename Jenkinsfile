@@ -8,7 +8,7 @@ pipeline{
     stages{
         stage('Deploy to Remote'){
             steps{
-                sh 'php --version'
+                echo 'php'
             }
         }
     }
